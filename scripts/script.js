@@ -12,7 +12,407 @@ new Vue({
         {
           name: "Mekanın Sahibi",
           artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/1.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/2.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/3.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/4.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/5.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/6.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/7.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/8.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/9.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/9.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/10.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/10.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/11.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/11.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/12.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/12.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/13.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/13.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/14.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/14.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/15.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/15.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/16.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/16.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/17.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/17.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/18.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/18.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/19.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/19.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/20.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/20.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/21.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/21.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/22.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/23.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/24.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/25.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/26.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/27.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/28.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/29.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/9.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/30.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/10.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/31.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/11.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/32.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/12.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/33.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/13.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/34.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/14.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/35.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/15.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/36.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/16.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/37.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/17.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/38.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/18.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/39.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/19.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/40.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/20.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/41.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/21.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/42.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/43.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/44.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/45.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/46.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/47.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/48.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/49.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
+          source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/50.mp3",
+          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          favorited: false
+        },
+        {
+          name: "Mekanın Sahibi",
+          artist: "Norm Ender",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
@@ -20,7 +420,7 @@ new Vue({
         {
           name: "Everybody Knows",
           artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/10.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
@@ -28,7 +428,7 @@ new Vue({
         {
           name: "Extreme Ways",
           artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/11.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
@@ -36,7 +436,7 @@ new Vue({
         {
           name: "Butterflies",
           artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/12.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
@@ -44,7 +444,7 @@ new Vue({
         {
           name: "The Final Victory",
           artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/13.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
@@ -52,7 +452,7 @@ new Vue({
         {
           name: "Genius ft. Sia, Diplo, Labrinth",
           artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/14.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
@@ -60,7 +460,7 @@ new Vue({
         {
           name: "The Comeback Kid",
           artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/15.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
@@ -68,7 +468,7 @@ new Vue({
         {
           name: "Overdose",
           artist: "Grandson",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/16.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
@@ -76,7 +476,7 @@ new Vue({
         {
           name: "Rag'n'Bone Man",
           artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/17.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
