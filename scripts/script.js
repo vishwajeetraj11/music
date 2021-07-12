@@ -10,120 +10,120 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "One Dance",
+          artist: "Drake, WizKid, Kyla",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/1.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Lean On",
+          artist: "Major Lazer, MØ, DJ Snake",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Sunflower - Spider-Man: Into the Spider-Verse",
+          artist: "Post Malone, Swae Lee",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/3.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Can't Hold Us - feat. Ray Dalton",
+          artist: "Macklemore & Ryan Lewis",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Somebody That I Used To Know",
+          artist: "Gotye, Kimbra",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Rolling in the Deep",
+          artist: "Adele",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "7 rings",
+          artist: "Ariana Grande",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Wake Me Up",
+          artist: "Avicii",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Love The Way You Lie",
+          artist: "Eminem, Rihanna",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/9.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Shape of You",
+          artist: "Ed Sheeran",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/10.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "bad guy",
+          artist: "Billie Eilish",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/11.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/11.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Rather Be (feat. Jess Glynne)",
+          artist: "Clean Bandit, Jess Glynne",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/12.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/12.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Call Me Maybe",
+          artist: "Carly Rae Jepsen",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/13.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/13.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "We Are Young (feat. Janelle Monáe)",
+          artist: "fun., Janelle Monáe",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/14.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/14.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Closer",
+          artist: "The Chainsmokers, Halsey",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/15.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/15.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
