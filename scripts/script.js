@@ -130,280 +130,280 @@ new Vue({
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "See You Again (feat. Charlie Puth)",
+          artist: "Wiz Khalifa, Charlie Puth",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/16.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/16.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Grenade",
+          artist: "Bruno Mars",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/17.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/17.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Cheerleader - Felix Jaehn Remix",
+          artist: "OMI, Felix Jaehn",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/18.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/18.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Radioactive",
+          artist: "Imagine Dragons",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/19.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/19.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Señorita",
+          artist: "Shawn Mendes, Camila Cabello",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/20.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/20.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Airplanes (feat. Hayley Williams of Paramore)",
+          artist: "B.o.B, Hayley Williams",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/21.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/21.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "SAD!",
+          artist: "XXXTENTACION",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/22.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Thrift Shop (feat. Wanz)",
+          artist: "Macklemore, Ryan Lewis, Wanz",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/23.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Thinking out Loud",
+          artist: "Ed Sheeran",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/24.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Summer",
+          artist: "Calvin Harris",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/25.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "God's Plan",
+          artist: "Drake",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/26.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Don't Let Me Down",
+          artist: "The Chainsmokers, Daya",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/27.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "rockstar (feat. 21 Savage)",
+          artist: "Post Malone, 21 Savage",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/28.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "I Took A Pill In Ibiza - Seeb Remix",
+          artist: "Mike Posner, Seeb",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/29.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Despacito",
+          artist: "Luis Fonsi, Daddy Yankee",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/9.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/30.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "HUMBLE.",
+          artist: "Kendrick Lamar",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/10.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/31.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Old Town Road - Remix",
+          artist: "Lil Nas X, Billy Ray Cyrus",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/11.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/32.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Waka Waka (This Time for Africa)",
+          artist: "Shakira, Freshlyground",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/12.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/33.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Danza Kuduro",
+          artist: "Don Omar, Lucenzo",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/13.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/34.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Dark Horse",
+          artist: "Katy Perry, Juicy J",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/14.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/35.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Cheap Thrills",
+          artist: "Sia",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/15.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/36.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Uptown Funk (feat. Bruno Mars)",
+          artist: "Mark Ronson, Bruno Mars",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/16.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/37.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Despacito - Remix",
+          artist: "Luis Fonsi, Daddy Yankee, Justin Bieber",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/17.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/38.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Only Girl (In The World)",
+          artist: "Rihanna",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/18.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/39.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Psycho (feat. Ty Dolla $ign)",
+          artist: "Post Malone, Ty Dolla $ign",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/19.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/40.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Happy - From Despicable Me 2",
+          artist: "Pharrell Williams",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/20.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/41.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "On The Floor - Radio Edit",
+          artist: "Jennifer Lopez, Pitbull",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/21.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/42.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Starships",
+          artist: "Nicki Minaj",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/1.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/43.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Whistle",
+          artist: "Flo Rida",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/2.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/44.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Party Rock Anthem",
+          artist: "LMFAO, Lauren Bennett, GoonRock",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/3.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/45.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Something Just Like This",
+          artist: "The Chainsmokers, Coldplay",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/4.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/46.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "All of Me",
+          artist: "John Legend",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/5.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/47.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Let Her Go",
+          artist: "Passenger",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/6.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/48.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "Not Afraid",
+          artist: "Eminem",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/7.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/49.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
+          name: "In My Feelings",
+          artist: "Drake",
           cover: "https://raw.githubusercontent.com/rishiraj/music/main/img/8.jpg",
           source: "https://raw.githubusercontent.com/rishiraj/music/main/mp3/50.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
